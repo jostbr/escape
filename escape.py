@@ -1,3 +1,11 @@
+
+# TODO:
+# - Create max amount of loot that player can carry (do testing towards end of development)
+# - Create the "story" around the use of the MOU (alien general remaining)
+# - Create death locations on electrical fence by giant frog-like creatures
+# - Place each class in escape.py into separate *.py files
+# - Add some explanation to how the player finds the direction back to earth
+
 import os
 
 class Map:
