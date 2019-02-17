@@ -1,0 +1,3 @@
+- Create max amount of loot that player can carry (do testing towards end of development).
+- Create the "story" around the use of the MOU (alien general remaining).
+- Create death locations on electrical fence by giant frog-like creatures.

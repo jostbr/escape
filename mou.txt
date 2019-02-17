@@ -1,0 +1,44 @@
+Code for supercomputer:
+--------------------------
+
+--------------------------------------------
+WELCOME TO THE MILITARY OPERATING UNIT.
+PLEASE TELL THE CONSOLE WHAT YOU WANT TO DO.
+--------------------------------------------
+
+HELLO--: access MOU
+MOU--: enable scripting for file AA_file.nc
+MOU--: set script type to NevCee
+
+----------------------
+NevCee SCRIPT ENABLED.
+----------------------
+
+NevCee-SCRIPT--: upon||AA_file.nc||enter||<0> -> delete_line(<714>)
+NevCee-SCRIPT--: upon||AA_file.nc||enter||<1> -> go_to_line(<714>)
+NevCee-SCRIPT--: upon||AA_file.nc||OneLineWrite -> exit(AA-file.nc)
+NevCee-SCRIPT--: enter(AA_file.nc)
+NevCee-SCRIPT--: OneLineWrite('AA_defense.enabled = FALSE')
+
+---------------------------------------------------------
+ACCORDING TO PRE-FILE SCRIPT:
+- LINE 714 IS DELETED
+- CURRENT ACTIVE LINE IN CONSOLE IS NOW 714
+- THE MOU WILL EXIT AA_file.nc AFTER LINE 714 IS WRITTEN.
+ENTERING AA_file.pyy
+---------------------------------------------------------
+
+LINE 714: AA_defense.enabled = FALSE
+
+-------------------------
+EXITING AA_file.nc
+RETURNING TO MOU-CONSOLE:
+-------------------------
+
+MOU--: exit MOU
+
+-----------
+EXITING MOU
+-----------
+
+

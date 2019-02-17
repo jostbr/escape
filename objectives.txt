@@ -1,0 +1,9 @@
+- Need plasma grenade to blow open cabin door to access rope (DONE)
+- Need update code from alien programmer (DONE)
+- Need terminal instructions from alien general
+- Need to update AA defense code to avoid being shot down upon departure
+- Need antidote to avoid dying from poison gotten from the venomous plants (DONE)
+- Need rope to climb cliff at the end
+- Need hook to climb cliff at the end
+- Need sniper to kill alien defending the spaceship (DONE)
+- Need to kill alien general to access alien space ship for departure
